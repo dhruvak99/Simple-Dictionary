@@ -1,0 +1,31 @@
+Hi there,
+To run this simple dictionary application follow the steps listed below.
+
+For Windows:
+1.Download the project file to ur disk.
+2.open the command prompt in that folder which consists the python file.
+3.Run the following command:
+	python3 dictionary.py WordToBeSearched
+			or
+	python dictionary.py WordToBeSearched
+
+
+For Linux/Ubuntu:
+1.Download the project file to ur disk.
+2.open the terminal Window in that folder which consists the python file.
+3.Run the following command:
+	python3 dictionary.py WordToBeSearched
+			or
+	python dictionary.py WordToBeSearched
+
+
+
+
+
+
+
+
+
+
+
+
